@@ -12,7 +12,6 @@ const NabvBar = () => {
 <a href='/project'>Project</a>
 <a href='/contact'>Contact</a>
 
-<button><MenuIcon/></button>
 
     </div>
   )
